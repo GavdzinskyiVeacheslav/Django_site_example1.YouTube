@@ -1,1 +1,4 @@
-".idea" 
+.idea/
+mynotes
+__pycache__/
+.env
