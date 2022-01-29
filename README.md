@@ -1,5 +1,6 @@
 # Django_site_example1.YouTube
-Simple example
+Simple example:
+channel: Gosha Dudar course: Building a Django Site / Python Django Tutorials
 
 Jinja, Bootstrap, data transfer from Python to HTML, сreate a category, creating templates
 migrations, admin panel, individual pages
